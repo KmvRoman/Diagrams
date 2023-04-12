@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-04-12T05:35:39.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TPHbIuwK30tQ4Sd-vl_-" version="21.1.6" type="github">
+  <diagram name="Страница 1" id="-t0tsYZnWM1bmS1u4bX9">
+    <mxGraphModel dx="1420" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TRnpYpJLC8HVgRcgY_k1-5" value="DocumentBuilder" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRnpYpJLC8HVgRcgY_k1-16" value="build()" style="whiteSpace=wrap;html=1;" vertex="1" parent="TRnpYpJLC8HVgRcgY_k1-5">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRnpYpJLC8HVgRcgY_k1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TRnpYpJLC8HVgRcgY_k1-17" target="TRnpYpJLC8HVgRcgY_k1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRnpYpJLC8HVgRcgY_k1-17" value="TreatyBuilder" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRnpYpJLC8HVgRcgY_k1-18" value="build()" style="whiteSpace=wrap;html=1;" vertex="1" parent="TRnpYpJLC8HVgRcgY_k1-17">
+          <mxGeometry y="50" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
