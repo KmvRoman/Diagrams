@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T18:42:52.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="38toE2b3fN3JLV9sREGG" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T20:35:24.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Wz64QSHhzh5H1abEIzpL" version="21.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="722" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
         <mxCell id="d32Ge9hNWDNUb_fcajc6-22" value="ничего не делать" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d32Ge9hNWDNUb_fcajc6-23" value="1. Удаление канала&lt;br&gt;2. Бан канала&lt;br&gt;3. Подтверждение заказа рекламодателем&lt;br&gt;4. Отклонение заказа рекламодателем с последующим отклонением в модерации&lt;br&gt;5. Подтверждение заказа при попытке отклонения через модерацию&lt;br&gt;6. Подтверждение заказа отложкой&lt;br&gt;отклонение заказа отложкой&lt;br&gt;7. Отмена заказа отложкой&lt;br&gt;8. Отклонение заказа блогером&lt;br&gt;9. Отмена заказа блогером" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="d32Ge9hNWDNUb_fcajc6-23" value="1. Удаление канала&lt;br&gt;2. Бан канала&lt;br&gt;3. - Подтверждение заказа рекламодателем&lt;br&gt;4. - Отклонение заказа рекламодателем с последующим отклонением в модерации&lt;br&gt;5. - Подтверждение заказа при попытке отклонения через модерацию&lt;br&gt;6. Подтверждение заказа отложкой&lt;br&gt;7.отклонение заказа отложкой&lt;br&gt;8. Отмена заказа отложкой&lt;br&gt;9. -Отклонение заказа блогером&lt;br&gt;10. -Отмена заказа блогером" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="2000" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="d32Ge9hNWDNUb_fcajc6-24" value="Events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
