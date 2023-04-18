@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T23:10:55.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="15Am0pLoQMw6kZzSJuZg" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T23:24:57.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uzcSJ_exjLh-KRkprmnq" version="21.1.9" type="github">
   <diagram name="Страница 1" id="IpyKYIGc66eHT6IRMl8n">
     <mxGraphModel dx="1420" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="40" y="40" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQHt2j1zjNg7_AkFd3IT-2" value="photo: str&lt;br&gt;name: str&lt;br style=&quot;font-size: 14px;&quot;&gt;age: int&lt;br style=&quot;font-size: 14px;&quot;&gt;sex: SexEnum&lt;br style=&quot;font-size: 14px;&quot;&gt;restaurants: list[Restaurant]&lt;br style=&quot;font-size: 14px;&quot;&gt;interval: Interval&lt;br style=&quot;font-size: 14px;&quot;&gt;bio: str" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" parent="sQHt2j1zjNg7_AkFd3IT-1" vertex="1">
+        <mxCell id="sQHt2j1zjNg7_AkFd3IT-2" value="person_id: int&lt;br&gt;photo: str&lt;br&gt;name: str&lt;br style=&quot;font-size: 14px;&quot;&gt;age: int&lt;br style=&quot;font-size: 14px;&quot;&gt;sex: SexEnum&lt;br style=&quot;font-size: 14px;&quot;&gt;restaurants: list[Restaurant]&lt;br style=&quot;font-size: 14px;&quot;&gt;interval: Interval&lt;br style=&quot;font-size: 14px;&quot;&gt;bio: str" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" parent="sQHt2j1zjNg7_AkFd3IT-1" vertex="1">
           <mxGeometry y="50" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="o55dQj6tfbEgBVc8BPkl-1" value="Restaurant" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
@@ -83,9 +83,6 @@
         </mxCell>
         <mxCell id="o55dQj6tfbEgBVc8BPkl-39" value="real&lt;br&gt;fake" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" vertex="1" parent="o55dQj6tfbEgBVc8BPkl-38">
           <mxGeometry y="50" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="o55dQj6tfbEgBVc8BPkl-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry width="760" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
