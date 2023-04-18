@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T22:16:17.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ndpw0nsqUhJhgqbLEvTy" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T22:27:28.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uT5ZxD9FItX5vwdk_vOW" version="21.1.9" type="github">
   <diagram name="Страница 1" id="IpyKYIGc66eHT6IRMl8n">
     <mxGraphModel dx="1014" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,8 +30,17 @@
         <mxCell id="o55dQj6tfbEgBVc8BPkl-6" value="from: Person&lt;br style=&quot;font-size: 14px;&quot;&gt;to: Person&lt;br&gt;reaction_from: EnumReaction&lt;br&gt;message_from: str" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" vertex="1" parent="o55dQj6tfbEgBVc8BPkl-5">
           <mxGeometry y="50" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="o55dQj6tfbEgBVc8BPkl-22" value="Match" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="200" height="160" as="geometry" />
+        <mxCell id="o55dQj6tfbEgBVc8BPkl-24" value="Match" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o55dQj6tfbEgBVc8BPkl-25" value="from: Person&lt;br style=&quot;font-size: 14px;&quot;&gt;to: Person" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" vertex="1" parent="o55dQj6tfbEgBVc8BPkl-24">
+          <mxGeometry y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o55dQj6tfbEgBVc8BPkl-26" value="Date" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o55dQj6tfbEgBVc8BPkl-27" value="match: Match&lt;br&gt;main_dates: list[date]&lt;br&gt;main_times: list[time]&lt;br&gt;dependent_dates: list[date]&lt;br&gt;dependent_times: list[time]" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=14;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Times New Roman;" vertex="1" parent="o55dQj6tfbEgBVc8BPkl-26">
+          <mxGeometry y="50" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
