@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T15:06:17.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AAg3TU8eXbsSOjbPB5IH" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T15:49:01.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kbiny5-IL3Rrb6xgHymq" version="21.2.3" type="github">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="980" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="aFjH2-REhS1qnBzDX-Ag-1" value="User" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aFjH2-REhS1qnBzDX-Ag-2" value="id: UserId&lt;br&gt;name: str&lt;br&gt;subscription: SubLevel" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aFjH2-REhS1qnBzDX-Ag-1">
+        <mxCell id="aFjH2-REhS1qnBzDX-Ag-2" value="id: UserId&lt;br&gt;name: str" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aFjH2-REhS1qnBzDX-Ag-1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aFjH2-REhS1qnBzDX-Ag-5" value="SubLevelEnum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -95,10 +95,10 @@
         <mxCell id="aFjH2-REhS1qnBzDX-Ag-10" value="topic provider" style="whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="414" y="840" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aFjH2-REhS1qnBzDX-Ag-11" value="UserSubscription" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="aFjH2-REhS1qnBzDX-Ag-11" value="UserSubscriptionText" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="aFjH2-REhS1qnBzDX-Ag-12" value="id: int&lt;br&gt;user_id: UserId&lt;br&gt;limit_balance: Optional[int]" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aFjH2-REhS1qnBzDX-Ag-11">
+        <mxCell id="aFjH2-REhS1qnBzDX-Ag-12" value="id: int&lt;br&gt;user_id: UserId&lt;br&gt;subscription: SuLevel&lt;br&gt;limit_balance: Optional[int]" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="aFjH2-REhS1qnBzDX-Ag-11">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aFjH2-REhS1qnBzDX-Ag-15" value="Q&amp;amp;A" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
