@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T07:07:26.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="DHmDQ9fmnC49VuwlYKS0" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-19T07:09:56.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="I60H333hKHUS3xEhdJHk" version="21.3.2" type="github" pages="3">
   <diagram name="Страница 1" id="1BGJjEX1ncRzJNrh3b40">
     <mxGraphModel dx="1714" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -550,6 +550,26 @@
         </mxCell>
         <mxCell id="HzMSSjzRzOOwqQ14_DTC-15" value="Product" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DuOIi2oyLZI8Xuy67UKY" name="Страница 3">
+    <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4GithD_OS1ol6962GjM8-3" value="User Agregate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GithD_OS1ol6962GjM8-4" value="Product Agregate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GithD_OS1ol6962GjM8-5" value="Basket Agregate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GithD_OS1ol6962GjM8-6" value="Order Agregate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
