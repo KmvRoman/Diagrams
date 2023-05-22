@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T14:17:38.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Au6oyiXtg_314bN1Luh5" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:35:38.143Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="85HivYjC2u1QXlIXyGaZ" version="21.3.2" type="github" pages="2">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -841,7 +841,7 @@
         <mxCell id="pcNB3vQbjLiv68JoZYTA-70" value="telegram_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pcNB3vQbjLiv68JoZYTA-72" value="return UserId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pcNB3vQbjLiv68JoZYTA-72" value="return dto UserId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
