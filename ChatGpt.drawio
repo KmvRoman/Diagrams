@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T14:44:50.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GOWe-U0Gjwx7CO8xxFGx" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:52:58.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i_z52SnFUjtceJHz-BKb" version="21.3.2" type="github" pages="2">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,9 +704,15 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1EEgVuanUeXldzSTuR19-7" value="Context" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="680" y="520" width="160" height="120" as="geometry" />
+          <mxGeometry x="660" y="520" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1EEgVuanUeXldzSTuR19-8" value="id: int&lt;br&gt;user_id: UserId&lt;br&gt;telegram_id: int" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="1EEgVuanUeXldzSTuR19-7">
+        <mxCell id="1EEgVuanUeXldzSTuR19-8" value="id: int&lt;br&gt;user_id: UserId&lt;br&gt;messages: list [ MessageId ]&amp;nbsp;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="1EEgVuanUeXldzSTuR19-7">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="heWGTmth9eDeezjxkrZM-1" value="Message" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="heWGTmth9eDeezjxkrZM-2" value="id: MessageId&lt;br&gt;user_id: UserId&lt;br&gt;text: str" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="heWGTmth9eDeezjxkrZM-1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
