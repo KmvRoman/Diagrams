@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T02:28:04.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QIVw8NpaMLYhWmXTy8QH" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-24T20:53:37.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="f3LV_lclfFFCIhEEPM2C" version="21.3.2" type="github" pages="4">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,7 +719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N6p4-1PQQs2zDgDv_DLH" name="Страница 2">
-    <mxGraphModel dx="1941" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1020,6 +1020,14 @@
         <mxCell id="ULKpS4zYowbHgRepix7V-4" value="id: MessageId&lt;br&gt;user_id: UserId&lt;br&gt;text: str&lt;br&gt;reply_to: Optional [ MessageId ]" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ULKpS4zYowbHgRepix7V-3">
           <mxGeometry y="50" width="200" height="110" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZL8gbwEvwUIRWywI_FpV" name="database schema">
+    <mxGraphModel dx="1114" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
