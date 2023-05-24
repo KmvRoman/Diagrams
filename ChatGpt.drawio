@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T21:54:15.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lv1cKmedMVYLmzrZV0Ht" version="21.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-24T21:54:20.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7Du8BFn8LAPEn3LrCZp8" version="21.3.2" type="github" pages="4">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1173" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1204,7 +1204,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3vzo_K2xY5Rt1bNB9nMf-55" value="limits" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="3vzo_K2xY5Rt1bNB9nMf-55" value="limits" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-120" y="240" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3vzo_K2xY5Rt1bNB9nMf-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="3vzo_K2xY5Rt1bNB9nMf-55">
