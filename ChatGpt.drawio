@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T16:13:17.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5VrGMgfkMrm3FebtWHtd" version="21.3.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-26T23:33:13.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jjEgsJYUv_O5OWJCfObx" version="21.3.3" type="github" pages="4">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1354" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,7 +719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N6p4-1PQQs2zDgDv_DLH" name="Страница 2">
-    <mxGraphModel dx="2420" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -897,6 +897,60 @@
         </mxCell>
         <mxCell id="_j-nNvrus9ptCTywmafV-4" value="send message (commit)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1080" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_j-nNvrus9ptCTywmafV-12" target="_j-nNvrus9ptCTywmafV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="670" />
+              <mxPoint x="-320" y="610" />
+              <mxPoint x="-700" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-12" value="access request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_j-nNvrus9ptCTywmafV-13" target="_j-nNvrus9ptCTywmafV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-13" value="message with context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-14" value="message without context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.173;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_j-nNvrus9ptCTywmafV-15" target="_j-nNvrus9ptCTywmafV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-15" value="remote limit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-16" value="user create" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.102;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_j-nNvrus9ptCTywmafV-18" target="_j-nNvrus9ptCTywmafV-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="600" />
+              <mxPoint x="-760" y="600" />
+              <mxPoint x="-760" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-18" value="available user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-19" value="messenger message reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-20" value="request with context" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-22" value="request without context" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1080" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_j-nNvrus9ptCTywmafV-23" value="access context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
