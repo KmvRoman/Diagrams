@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T18:42:40.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_lGAuNHhip_D6CCfVc2M" version="21.3.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-05-27T20:46:11.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="l-99_-5Fx_6_7B6HlZre" version="21.3.3" type="github" pages="4">
   <diagram name="Страница 1" id="6RsI5PoxTVXbYfIFVnOP">
     <mxGraphModel dx="1114" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,7 +719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N6p4-1PQQs2zDgDv_DLH" name="Страница 2">
-    <mxGraphModel dx="2684" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
         <mxCell id="_j-nNvrus9ptCTywmafV-33" value="messenger message saver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="-40" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-21" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-21" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-800" y="1280" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-1" value="available user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-21">
@@ -1023,7 +1023,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-29" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-29" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-560" y="1280" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-13" value="remote limit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-29">
@@ -1059,7 +1059,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-49" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-49" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-320" y="1280" width="200" height="340" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-30" value="access request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-49">
@@ -1093,10 +1093,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-59" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-59" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-80" y="1280" width="200" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-50" value="access context" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-59">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-50" value="access context" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#ffffff;strokeColor=#ffffff;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-59">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dnlTwVl3Mxfw3RmUl8Sf-59" source="dnlTwVl3Mxfw3RmUl8Sf-51" target="dnlTwVl3Mxfw3RmUl8Sf-50">
@@ -1127,7 +1127,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-71" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-71" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="1280" width="200" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-60" value="messenger message reader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-71">
@@ -1161,7 +1161,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-86" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-86" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="400" y="1280" width="200" height="450" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-72" value="message with context" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-86">
@@ -1207,10 +1207,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-98" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-98" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="640" y="1280" width="200" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-87" value="messenger message saver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-98">
+        <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-87" value="messenger message saver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=#ffffff;strokeColor=#6F6F6F;" vertex="1" parent="dnlTwVl3Mxfw3RmUl8Sf-98">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dnlTwVl3Mxfw3RmUl8Sf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dnlTwVl3Mxfw3RmUl8Sf-98" source="dnlTwVl3Mxfw3RmUl8Sf-88" target="dnlTwVl3Mxfw3RmUl8Sf-87">
