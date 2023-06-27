@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:48:17.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-gKVT-PO-aVbCDrupM1g" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-27T02:52:19.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RY2JV-BCm894r4y60vKb" version="21.5.0" type="github" pages="3">
   <diagram name="Page-1" id="JI3EfG03txVul78gmGVp">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,7 +338,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kmU4MtfEEfoWVWO9ehtk" name="Страница 3">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -420,10 +420,10 @@
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-28" value="Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1130" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kQt5ZfqNgClJp_lwbk3n-29" value="Фото" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-29" value="Фото" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="140" y="690" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kQt5ZfqNgClJp_lwbk3n-30" value="Имя&lt;br&gt;Описание&lt;br&gt;Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-30" value="Имя&lt;br&gt;Описание&lt;br&gt;Цена" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="140" y="790" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-32" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
