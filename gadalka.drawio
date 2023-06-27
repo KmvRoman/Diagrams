@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:55:44.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H-CDvxkC8Ex6RpihefGC" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-27T02:58:19.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m_Z_QVWYh1FclNjj2nAM" version="21.5.0" type="github" pages="3">
   <diagram name="Page-1" id="JI3EfG03txVul78gmGVp">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -343,151 +343,157 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="440" height="340" as="geometry" />
+          <mxGeometry x="120" y="280" width="440" height="410" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-4" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="290" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-5" value="Наименование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="360" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="330" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-6" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-7" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="440" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-8" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="400" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="370" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-9" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="410" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-10" value="Описание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="480" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="450" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-11" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="520" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="490" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-12" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="560" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="530" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-13" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="520" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="490" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-14" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="560" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kQt5ZfqNgClJp_lwbk3n-15" value="Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="600" width="310" height="30" as="geometry" />
+          <mxGeometry x="200" y="530" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="680" width="440" height="500" as="geometry" />
+          <mxGeometry x="120" y="710" width="440" height="490" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-17" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="850" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="880" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-18" value="Наименование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="890" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="920" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-19" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="930" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="960" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-20" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="970" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="1000" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-21" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="930" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="960" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-22" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="970" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="1000" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-23" value="Описание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1010" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="1040" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-24" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1050" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="1080" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-25" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1090" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="1120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-26" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1050" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="1080" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-27" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1090" width="340" height="30" as="geometry" />
+          <mxGeometry x="200" y="1120" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-28" value="Цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1130" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="1160" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-29" value="Фото" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="140" y="690" width="400" height="80" as="geometry" />
+          <mxGeometry x="140" y="720" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-30" value="Имя&lt;br&gt;Описание&lt;br&gt;Цена" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="140" y="790" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kQt5ZfqNgClJp_lwbk3n-32" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="140" y="820" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="440" height="530" as="geometry" />
+          <mxGeometry x="570" y="280" width="440" height="490" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-34" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="320" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="290" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-35" value="Наименование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="330" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-36" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="400" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-37" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="440" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-38" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="400" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="370" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-39" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="410" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-40" value="Описание" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="480" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="450" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-41" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="520" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="490" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-42" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="560" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="530" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-43" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="520" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="490" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-44" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="560" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="530" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-45" value="Модификация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="600" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="570" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-47" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="640" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="610" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-48" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="680" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-49" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="640" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="610" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-50" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="680" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="650" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-52" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="620" y="760" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="730" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-53" value="Ожидание записи .../Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="720" width="340" height="30" as="geometry" />
+          <mxGeometry x="650" y="690" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-54" value="цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="720" width="50" height="30" as="geometry" />
+          <mxGeometry x="590" y="690" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-55" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="140" y="650" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-56" value="Ожидание записи .../Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="610" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-57" value="цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="610" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-59" value="цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
