@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:58:19.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="m_Z_QVWYh1FclNjj2nAM" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-27T03:00:23.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PAtmI5Hu2QoVYBrPk2X1" version="21.5.0" type="github" pages="3">
   <diagram name="Page-1" id="JI3EfG03txVul78gmGVp">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
           <mxGeometry x="140" y="820" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="440" height="490" as="geometry" />
+          <mxGeometry x="570" y="280" width="440" height="650" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-34" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="290" width="400" height="30" as="geometry" />
@@ -475,7 +475,7 @@
           <mxGeometry x="650" y="650" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-52" value="+" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="590" y="730" width="400" height="30" as="geometry" />
+          <mxGeometry x="590" y="890" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-53" value="Ожидание записи .../Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="690" width="340" height="30" as="geometry" />
@@ -494,6 +494,27 @@
         </mxCell>
         <mxCell id="kQt5ZfqNgClJp_lwbk3n-59" value="цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="570" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-60" value="ru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-61" value="uz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="810" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-62" value="Ожидание записи ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="770" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-63" value="Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="810" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-64" value="Ожидание записи .../Yozuv qutilmoqta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="850" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-65" value="цена" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="850" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kQt5ZfqNgClJp_lwbk3n-66" value="Модификация" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="730" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
