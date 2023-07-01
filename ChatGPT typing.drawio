@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T07:01:38.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Dmd0OAmKGFRWDFq_JIYB" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-01T07:13:55.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eJ_p9dSKhmIcr8RZEkAP" version="21.5.2" type="github" pages="2">
   <diagram name="Страница 1" id="yXr0mR93wVBfhwKuN5HS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -348,7 +348,7 @@
         <mxCell id="xw_hN3GBPzeLiiMLfZEo-59" value="prompt 3-6 posts from channel with description from bot (constant text)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="1500" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xw_hN3GBPzeLiiMLfZEo-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="xw_hN3GBPzeLiiMLfZEo-60" target="xw_hN3GBPzeLiiMLfZEo-72">
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="1" source="xw_hN3GBPzeLiiMLfZEo-60" target="xw_hN3GBPzeLiiMLfZEo-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1610" y="1670" as="targetPoint" />
           </mxGeometry>
@@ -361,14 +361,26 @@
         <mxCell id="xw_hN3GBPzeLiiMLfZEo-60" value="free" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xw_hN3GBPzeLiiMLfZEo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="xw_hN3GBPzeLiiMLfZEo-61">
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=2;" edge="1" parent="1" source="xw_hN3GBPzeLiiMLfZEo-61" target="xw_hN3GBPzeLiiMLfZEo-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1530" y="1520" as="sourcePoint" />
             <mxPoint x="1670" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-93" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xw_hN3GBPzeLiiMLfZEo-88">
+          <mxGeometry x="0.0833" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xw_hN3GBPzeLiiMLfZEo-61" value="permission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=2;" edge="1" parent="1" source="xw_hN3GBPzeLiiMLfZEo-62" target="xw_hN3GBPzeLiiMLfZEo-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1650" y="1420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xw_hN3GBPzeLiiMLfZEo-62" value="restrict" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="1390" width="120" height="60" as="geometry" />
