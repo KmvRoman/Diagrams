@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T06:18:00.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9rfogAKIfDS2qsOPBAaq" version="21.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-01T06:34:01.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UJ9TKagx40KfKXrjUoyd" version="21.5.2" type="github" pages="2">
   <diagram name="Страница 1" id="yXr0mR93wVBfhwKuN5HS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -301,6 +301,36 @@
         </mxCell>
         <mxCell id="xw_hN3GBPzeLiiMLfZEo-49" value="calm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="390" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1160" width="660" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-53" value="timepoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-55" value="timepoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-56" value="timepoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-57" value="timepoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-58" value="timepoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-59" value="prompt 3-6 posts from channel with description from bot (constant text)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1500" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-60" value="free" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-61" value="permission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xw_hN3GBPzeLiiMLfZEo-62" value="restrict" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
