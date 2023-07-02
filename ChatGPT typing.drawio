@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T09:39:27.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="99umOiqO5RIBxhTLm91e" version="21.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-02T09:40:35.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="plqaE0XuuuWOhW4FPI6g" version="21.5.2" type="github" pages="3">
   <diagram name="Страница 1" id="yXr0mR93wVBfhwKuN5HS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -911,6 +911,9 @@
         </mxCell>
         <mxCell id="NuELEdSz795bBJSiIJnB-64" value="set post status rejected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NuELEdSz795bBJSiIJnB-66" value="Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="40" width="120" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
