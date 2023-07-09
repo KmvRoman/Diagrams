@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T21:08:15.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u231Pvdyy3o_yX_mBNLu" version="21.6.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-09T21:14:00.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1-Ranl_gF-1vaZOjtibJ" version="21.6.1" type="github" pages="4">
   <diagram name="Страница 1" id="yXr0mR93wVBfhwKuN5HS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -1265,6 +1265,53 @@
             <mxPoint x="1259.5" y="1000" as="sourcePoint" />
             <mxPoint x="1259.5" y="920" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qeNNmEi-2jcOm0KEQC0Z-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1190" as="sourcePoint" />
+            <mxPoint x="1220" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="1160" />
+              <mxPoint x="880" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeNNmEi-2jcOm0KEQC0Z-16" target="qeNNmEi-2jcOm0KEQC0Z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-16" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeNNmEi-2jcOm0KEQC0Z-16" target="qeNNmEi-2jcOm0KEQC0Z-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="1180" as="sourcePoint" />
+            <mxPoint x="1050" y="1130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="1100" />
+              <mxPoint x="1130" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qeNNmEi-2jcOm0KEQC0Z-18" target="qeNNmEi-2jcOm0KEQC0Z-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qeNNmEi-2jcOm0KEQC0Z-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1100" y="1070" />
+              <mxPoint x="1221" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-18" value="view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qeNNmEi-2jcOm0KEQC0Z-22" value="1. актор говорит запланируй задачу на 10 вечера&lt;br&gt;2. Приложение планирует по utc на время utc + dt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1280" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
