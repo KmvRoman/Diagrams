@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T05:06:02.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uvn_6RK6d4PTf4wBLK8j" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T05:10:10.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2kDrdfXG1nanhumHZPlX" version="21.6.9" type="github">
   <diagram name="Страница — 1" id="S32pBR1Yxwfq7q0BbaRL">
     <mxGraphModel dx="2234" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="brX-JjY1KmQOTWcL1tL5-3" value="Страны" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="brX-JjY1KmQOTWcL1tL5-4" target="brX-JjY1KmQOTWcL1tL5-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brX-JjY1KmQOTWcL1tL5-4" value="Требования к покупке билета" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="-80" width="120" height="60" as="geometry" />
@@ -31,8 +34,14 @@
         <mxCell id="brX-JjY1KmQOTWcL1tL5-10" value="Рейсы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="brX-JjY1KmQOTWcL1tL5-11" target="brX-JjY1KmQOTWcL1tL5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brX-JjY1KmQOTWcL1tL5-11" value="Виды покупки билета" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="brX-JjY1KmQOTWcL1tL5-12" target="brX-JjY1KmQOTWcL1tL5-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="brX-JjY1KmQOTWcL1tL5-12" value="Виды мест (1, 2 класс и тп)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="80" width="120" height="60" as="geometry" />
@@ -52,8 +61,23 @@
         <mxCell id="brX-JjY1KmQOTWcL1tL5-18" value="Один аэропорт может использоваться несколькими аэрокомпаниями, о том как они согласуют графики рейсов между собой нас не интересует, это может делать какое-то одно внешнее приложение с которым все остальные согласуют дорожки в аэропортах и рейсы по каждой из них" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-720" y="200" width="280" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="brX-JjY1KmQOTWcL1tL5-21" target="brX-JjY1KmQOTWcL1tL5-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="brX-JjY1KmQOTWcL1tL5-21" value="Билеты" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-22" value="Паспортные данные, для упрощения номер паспорта, имя и фамилия" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-120" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-24" value="Бронирование, или прямая покупка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-26" value="1 класс - люкс, 2 - класс - бизнес, 3 класс - эконом" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brX-JjY1KmQOTWcL1tL5-29" value="Какую информацию должен содержать билет" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
