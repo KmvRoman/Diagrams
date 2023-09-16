@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T19:09:12.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="BOeTOLH-GNxoTYvOuaDX" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-16T19:09:25.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bf0LdbZJozN7AszFUiCj" version="21.7.2" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2701" dy="2338" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
           <mxGeometry y="78" width="220.75" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-160" value="ProductOrder" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="1213" width="246.17" height="182" as="geometry" />
+          <mxGeometry x="1152.5" y="1213" width="246.17" height="156" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-298" value="+ order_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
           <mxGeometry y="26" width="246.17" height="26" as="geometry" />
@@ -399,14 +399,11 @@
         <mxCell id="MvSRgmjmEU01SDQ68-oU-165" value="+ modification: Optional[str]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
           <mxGeometry y="78" width="246.17" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MvSRgmjmEU01SDQ68-oU-161" value="+ name: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
+        <mxCell id="MvSRgmjmEU01SDQ68-oU-162" value="+ count: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
           <mxGeometry y="104" width="246.17" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MvSRgmjmEU01SDQ68-oU-162" value="+ count: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
-          <mxGeometry y="130" width="246.17" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-166" value="+ price: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-160">
-          <mxGeometry y="156" width="246.17" height="26" as="geometry" />
+          <mxGeometry y="130" width="246.17" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-167" value="Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="772" y="1086.61" width="283.12" height="208" as="geometry" />
