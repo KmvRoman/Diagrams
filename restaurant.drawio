@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-09-16T16:11:05.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="B-KH2rOc83162aegtYYq" version="21.7.2" type="github">
-  <diagram name="Страница — 1" id="2kAOOVgiXVAEId-HnfGU">
+<mxfile host="app.diagrams.net" modified="2023-09-16T16:15:55.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="02EuN55b5PTPzvNGwOe0" version="21.7.2" type="github" pages="2">
+  <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2701" dy="2338" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -678,6 +678,14 @@
         <mxCell id="MvSRgmjmEU01SDQ68-oU-356" value="+ available: Product" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-350">
           <mxGeometry y="156" width="251.69" height="26" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZCKdVQYBr8U9BfnUhHAv" name="db scheme">
+    <mxGraphModel dx="1312" dy="818" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
