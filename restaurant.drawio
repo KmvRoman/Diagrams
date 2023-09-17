@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T20:17:01.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Fex4AloPYhrcDtlRE4oK" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-17T20:25:00.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="djASB8GWzq7M7xzxVsrQ" version="21.7.2" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2371" dy="2131" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
         <mxCell id="MvSRgmjmEU01SDQ68-oU-169" value="+ phone: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-167">
           <mxGeometry y="78" width="283.12" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MvSRgmjmEU01SDQ68-oU-170" value="+ payment_type: Payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-167">
+        <mxCell id="MvSRgmjmEU01SDQ68-oU-170" value="+ payment_type: PaymentType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-167">
           <mxGeometry y="104" width="283.12" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-273" value="+ order_type: OrderType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-167">
