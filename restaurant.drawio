@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T18:17:38.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pFgl2Say_N9ai0j0fJjZ" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-17T20:17:01.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Fex4AloPYhrcDtlRE4oK" version="21.7.2" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2371" dy="2131" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -364,19 +364,16 @@
           <mxGeometry y="78" width="251.97" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-151" value="Basket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="866.14" y="929" width="251.62" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="MvSRgmjmEU01SDQ68-oU-302" value="+ id: Optional[int]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-151">
-          <mxGeometry y="26" width="251.62" height="26" as="geometry" />
+          <mxGeometry x="866.14" y="929" width="251.62" height="104" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-155" value="+ user_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-151">
-          <mxGeometry y="52" width="251.62" height="26" as="geometry" />
+          <mxGeometry y="26" width="251.62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-152" value="+ prepared: list[ProductBasket]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-151">
-          <mxGeometry y="78" width="251.62" height="26" as="geometry" />
+          <mxGeometry y="52" width="251.62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-267" value="+ status: BasketStatus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="MvSRgmjmEU01SDQ68-oU-151">
-          <mxGeometry y="104" width="251.62" height="26" as="geometry" />
+          <mxGeometry y="78" width="251.62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="MvSRgmjmEU01SDQ68-oU-156" value="TelegramUser" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-205" y="991" width="220.75" height="104" as="geometry" />
