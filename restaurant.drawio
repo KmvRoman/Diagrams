@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T18:58:08.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="l-2Rz6ZnmSozxlqt5l3k" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-19T19:38:49.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="doARHr9BievmzI88oM8G" version="21.7.5" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
-    <mxGraphModel dx="2247" dy="1987" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="2338" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,7 +805,7 @@
           <mxGeometry y="52" width="220.3" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ANTQhGLl4lSgfJYyjY_n-12" value="RestaurantLocationMenu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="-331" y="1182" width="220.76" height="130" as="geometry" />
+          <mxGeometry x="-331" y="1182" width="220.76" height="104" as="geometry" />
         </mxCell>
         <mxCell id="ANTQhGLl4lSgfJYyjY_n-13" value="+ location_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-12">
           <mxGeometry y="26" width="220.76" height="26" as="geometry" />
@@ -813,11 +813,8 @@
         <mxCell id="ANTQhGLl4lSgfJYyjY_n-14" value="+ category_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-12">
           <mxGeometry y="52" width="220.76" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ANTQhGLl4lSgfJYyjY_n-15" value="+ product_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-12">
+        <mxCell id="ANTQhGLl4lSgfJYyjY_n-15" value="+ products: list[MenuProduct]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-12">
           <mxGeometry y="78" width="220.76" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ANTQhGLl4lSgfJYyjY_n-20" value="+ status: ProductStatus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-12">
-          <mxGeometry y="104" width="220.76" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ANTQhGLl4lSgfJYyjY_n-22" value="Categories" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="-614" y="835" width="220.3" height="104" as="geometry" />
@@ -831,11 +828,20 @@
         <mxCell id="ANTQhGLl4lSgfJYyjY_n-24" value="+ language: Language" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ANTQhGLl4lSgfJYyjY_n-22">
           <mxGeometry y="78" width="220.3" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="r7utcCL8wPaWJAO29rke-5" value="MenuProduct" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#008a00;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="-331" y="1370" width="220.76" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="r7utcCL8wPaWJAO29rke-6" value="+ product_id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="r7utcCL8wPaWJAO29rke-5">
+          <mxGeometry y="26" width="220.76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r7utcCL8wPaWJAO29rke-7" value="+ status: ProductStatus" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="r7utcCL8wPaWJAO29rke-5">
+          <mxGeometry y="52" width="220.76" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZCKdVQYBr8U9BfnUhHAv" name="db scheme">
-    <mxGraphModel dx="2720" dy="2260" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="1636" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2076,7 +2082,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tc2tFco0J5bmoxk3qwk8-8" value="reataurant_id int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="tc2tFco0J5bmoxk3qwk8-6">
+        <mxCell id="tc2tFco0J5bmoxk3qwk8-8" value="restaurant_id int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="tc2tFco0J5bmoxk3qwk8-6">
           <mxGeometry x="30" width="190.76" height="30" as="geometry">
             <mxRectangle width="190.76" height="30" as="alternateBounds" />
           </mxGeometry>
