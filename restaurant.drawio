@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T16:15:27.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qIRVRovLICPhy5_75d-O" version="21.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-22T16:16:11.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7nB5mEbtETUtT4E917nm" version="21.8.0" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2498" dy="2131" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1353,7 +1353,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6f2CwB6SiG-vePd4K3TD-1" value="ProductBasketModification" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="6f2CwB6SiG-vePd4K3TD-1" value="ProductBasketModification" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fontSize=16;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="787.4" y="692.91" width="250.57" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6f2CwB6SiG-vePd4K3TD-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=16;" parent="6f2CwB6SiG-vePd4K3TD-1" vertex="1">
