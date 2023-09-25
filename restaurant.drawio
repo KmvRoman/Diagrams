@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T22:02:47.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="19gtkAF--mHE0TykOXIp" version="21.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-25T07:59:41.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nF6OGIBd6-vGmhg2Feod" version="21.8.0" type="github" pages="2">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
-    <mxGraphModel dx="2498" dy="2131" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="2338" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,7 +847,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZCKdVQYBr8U9BfnUhHAv" name="db scheme">
-    <mxGraphModel dx="2322" dy="2030" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2602" dy="2192" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2411,6 +2411,11 @@
               <mxPoint x="421" y="-480" />
               <mxPoint x="394" y="-441" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gzxc3nQxlzQ1D7Ib3OuQ-1" value="status ProductStatus" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="687.7769999999999" y="153.547" width="178.36" height="30" as="geometry">
+            <mxRectangle width="178.36" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
