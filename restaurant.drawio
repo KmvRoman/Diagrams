@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T02:05:58.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D0W0XKTqlytqSl_UUPWw" version="22.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-06T03:52:07.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="AEfO2vbH2i0VRQ9EKDjb" version="22.0.1" type="github" pages="3">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2487" dy="1987" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2516,6 +2516,9 @@
         </mxCell>
         <mxCell id="NKGeC5LEUHyj_9_lHlVL-8" value="50000" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-360" y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FusCQDjcTqkbfd4QstKR-1" value="prepare &lt;br&gt;price" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
