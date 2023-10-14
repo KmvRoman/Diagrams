@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T10:06:08.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d_LIE-F-jnEolf6EaaIj" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-14T10:10:49.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lZjbDXQ-aQ-lnBSQba-A" version="22.0.4" type="github" pages="3">
   <diagram name="common" id="2kAOOVgiXVAEId-HnfGU">
     <mxGraphModel dx="2856" dy="2338" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2525,6 +2525,12 @@
         </mxCell>
         <mxCell id="WAEvFrcJg_9WQf72423d-9" value="restaurant_location, webapp, back" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WAEvFrcJg_9WQf72423d-10" value="webapp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="400" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WAEvFrcJg_9WQf72423d-11" value="webapp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
