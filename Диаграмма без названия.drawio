@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T16:20:09.055Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o66_Roi7d1H2xLxV194E" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T16:37:10.287Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VAJH2YGmt4FuUSASaSMB" version="22.1.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1793,6 +1793,9 @@
         </mxCell>
         <mxCell id="FJtS47C-wBXjF5gfF9K3-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;2. Добавление учителя&lt;br&gt;Таблицы, Teacher, TeacherCourse&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=6;" vertex="1" parent="1">
           <mxGeometry x="840" y="720" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FJtS47C-wBXjF5gfF9K3-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Добавление курса и семестров(вместе или никак)&lt;br&gt;Таблицы, Course, Semester, CourseSemester&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="840" y="800" width="560" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
