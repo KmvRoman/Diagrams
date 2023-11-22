@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T11:55:09.965Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hoz2swVsMQqCYk9eMBWV" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T11:55:52.641Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MPCyIoEiKathSwJRfAaP" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="IHasmWcMiqbAbE_R60sP">
     <mxGraphModel dx="1434" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ggoGIEasEx8B-Sip94aN-1" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="720" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
