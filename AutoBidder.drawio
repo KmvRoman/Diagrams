@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T21:40:11.553Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A7flrIEgUQQojFHvq9xO" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T21:41:33.899Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LrCQKe73yzdHVmPMXxtn" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="IHasmWcMiqbAbE_R60sP">
     <mxGraphModel dx="989" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -96,9 +96,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTDLR3XbcQALrrWitUnH-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;GOOD&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDLR3XbcQALrrWitUnH-7">
+        <mxCell id="jTDLR3XbcQALrrWitUnH-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PLACE CHANGED UP&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDLR3XbcQALrrWitUnH-7">
           <mxGeometry x="-0.1724" y="3" relative="1" as="geometry">
-            <mxPoint x="-24" y="-3" as="offset" />
+            <mxPoint x="90" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jTDLR3XbcQALrrWitUnH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jTDLR3XbcQALrrWitUnH-5" target="jTDLR3XbcQALrrWitUnH-9">
@@ -111,9 +111,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTDLR3XbcQALrrWitUnH-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;BAD&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDLR3XbcQALrrWitUnH-10">
+        <mxCell id="jTDLR3XbcQALrrWitUnH-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PLACE NOT CHANGED&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jTDLR3XbcQALrrWitUnH-10">
           <mxGeometry x="-0.5871" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="22" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jTDLR3XbcQALrrWitUnH-5" value="Check place" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
