@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T14:54:17.452Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dM54CowT8MWwfucmchDa" version="22.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-14T14:54:44.979Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wTiPztuBk2q4hmfsZ7Sj" version="22.1.8" type="github" pages="2">
   <diagram name="post" id="p1JL0058qymCIt9zww1Q">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,19 +117,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kAA1LHIG8yWmvGErUeHZ-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAA1LHIG8yWmvGErUeHZ-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="70" width="460" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="kAA1LHIG8yWmvGErUeHZ-2" value="User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAA1LHIG8yWmvGErUeHZ-2" value="User" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kAA1LHIG8yWmvGErUeHZ-4" value="Wallet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAA1LHIG8yWmvGErUeHZ-4" value="Wallet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="550" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kAA1LHIG8yWmvGErUeHZ-5" value="Order" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAA1LHIG8yWmvGErUeHZ-5" value="Order" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="385" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kAA1LHIG8yWmvGErUeHZ-7" value="Channel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kAA1LHIG8yWmvGErUeHZ-7" value="Channel" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
