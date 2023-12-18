@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T18:23:35.735Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Bi7XZDySXQFSgPUZCjTs" version="22.1.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-18T20:11:20.967Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="p8mcwJ-_dDbhkCU7fUZb" version="22.1.11" type="github" pages="3">
   <diagram name="post" id="p1JL0058qymCIt9zww1Q">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RVFDYA0m_uMyv0w2iTv2-28" value="Распределение телеграм каналов по юзерботам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
