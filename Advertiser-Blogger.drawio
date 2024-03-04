@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T16:51:54.279Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="he7Bf_89QjoqclJOfkYG" version="23.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-04T04:27:41.517Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QxCQ2oTvkgNIOziY7JZc" version="23.1.7" type="github" pages="7">
   <diagram name="post" id="p1JL0058qymCIt9zww1Q">
     <mxGraphModel dx="1434" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,6 +654,27 @@
         </mxCell>
         <mxCell id="N5Tp-DGptoHToRvHucw_-66" value="Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1160" y="220" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-1" value="deposit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-2" value="transit account + 1150" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-3" value="transit account - 1150" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-4" value="turnover account &lt;br&gt;- 150" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-5" value="profit account - 1150" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-6" value="turnover account &lt;br&gt;- 1000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PaJL8d6nojrmslc9NTa3-7" value="user account account 1000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
