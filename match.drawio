@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-06T10:45:03.302Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="CiPBREqU6cvhZi9XRWgz" version="24.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-08-06T10:46:19.424Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="opk1pf4aW_-1uCpwAtPa" version="24.5.3" type="github" pages="2">
   <diagram name="Страница 1" id="IpyKYIGc66eHT6IRMl8n">
     <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,8 +101,11 @@
         <mxCell id="RdD6GUtMREO06sevD3Uh-1" value="новые(4)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RdD6GUtMREO06sevD3Uh-2" value="законченные" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RdD6GUtMREO06sevD3Uh-2" value="история" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdD6GUtMREO06sevD3Uh-3" value="command /start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
